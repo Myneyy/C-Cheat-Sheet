@@ -37,7 +37,7 @@ Hier kommt dein Hello World und Syntax-Beispiele hin.
 
 ____
 
-### Variables & Data Types  
+### Variables and Data Types  
 Hier kommt dein Hello World und Syntax-Beispiele hin.
 
 ____
@@ -48,7 +48,7 @@ Hier kommt dein Hello World und Syntax-Beispiele hin.
 
 ____
 
-### Input and Outpu
+### Input and Output
 Hier kommt dein Hello World und Syntax-Beispiele hin.
 
 ____
@@ -73,7 +73,7 @@ Hier kommt dein Hello World und Syntax-Beispiele hin.
 
 ____
 
-###Pointers and References
+### Pointers and References
 Hier kommt dein Hello World und Syntax-Beispiele hin.
 
 
