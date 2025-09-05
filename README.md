@@ -14,23 +14,23 @@ Feel free to use and share this Cheat Sheet.If it helped you, please leave a ⭐
 ---
 
 ## Cheat Sheet Contents
--Basics (Hello World, Syntax, main-Funktion)
+- Basics (Hello World, Syntax, main-Funktion)
 
--Variables & Data Types
+- **Variables** & Data Types
 
--Operators
+- **Operators**
 
--Input & Output
+- **Input & Output**
 
--Control Flow (if, loops, switch)
+- **Control Flow** (if, loops, switch)
 
--Functions
+- **Functions**
 
--Arrays & Vectors
+- **Arrays & Vectors**
 
--Structs & Classes
+- **Structs & Classes**
 
--Pointers & References (optional für Fortgeschrittene)
+- **Pointers & References** (optional für Fortgeschrittene)
 
--File Handling
+
 
