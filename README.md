@@ -38,6 +38,44 @@ Hier kommt dein Hello World und Syntax-Beispiele hin.
 ____
 
 ### Variables & Data Types  
+Hier kommt dein Hello World und Syntax-Beispiele hin.
+
+____
+
+
+### Operators  
+Hier kommt dein Hello World und Syntax-Beispiele hin.
+
+____
+
+### Input and Outpu
+Hier kommt dein Hello World und Syntax-Beispiele hin.
+
+____
+
+### Control Flow  
+Hier kommt dein Hello World und Syntax-Beispiele hin.
+
+____
+
+### Functions 
+Hier kommt dein Hello World und Syntax-Beispiele hin.
+
+____
+
+### Arrays and Vectors  
+Hier kommt dein Hello World und Syntax-Beispiele hin.
+
+____
+
+### Structs and Classes  
+Hier kommt dein Hello World und Syntax-Beispiele hin.
+
+____
+
+###Pointers and References
+Hier kommt dein Hello World und Syntax-Beispiele hin.
+
 
 
 
