@@ -33,18 +33,56 @@ Click on the link for your specific topic and you will be taken directly there, 
 
 ## Cheat Sheet Contents
 ### Basics
-Hier kommt dein Hello World und Syntax-Beispiele hin.
+Every C++ program starts with a `main()` function.  
+You need to include headers (like `<iostream>`) to use input/output.
+The program below prints text to the console.
+
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+    cout << "Hello, World!" << endl;
+    return 0;
+}
+```
 
 ____
 
 ### Variables and Data Types  
-Hier kommt dein Hello World und Syntax-Beispiele hin.
+Variables are named storage for values.
+C++ is statically typed, so you must declare the type of each variable before using it.
+- `int` → whole numbers
+- `double` → decimal numbers
+- `char` → single characters
+- `bool` → true/false values
+- `string` → text
+
+ ```cpp
+int age = 16;
+double pi = 3.14;
+char grade = 'A';
+bool isCoding = true;
+string name = "Alex";
+```
+
 
 ____
 
 
 ### Operators  
-Hier kommt dein Hello World und Syntax-Beispiele hin.
+Operators perform calculations and comparisons.
+- Arithmetic: `+`, `-`, `*`, `/`, `%`
+- Comparison: `==`, `!=`, `<`, `>`, `<=`, `>=`
+- Logical: `&&` (and), `||` (or), `!` (not)
+
+```cpp
+int a = 5, b = 2;
+
+int sum = a + b;       // 7
+int product = a * b;   // 10
+bool result = (a > b); // true
+```
 
 ____
 
